@@ -1,0 +1,6 @@
+{
+  "name": "Nexora — Crie. Publique. Cresça.",
+  "description": "Landing page oficial de alta conversão da Nexora com contador dinâmico de lançamentos de criadores, demonstração interativa da plataforma e checkout oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
